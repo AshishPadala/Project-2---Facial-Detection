@@ -1,4 +1,4 @@
-# Project-2---Facial-Detection
+# Project-2---Facial-Emotion-Detection
 Facial emotion detection, also known as facial expression recognition, is a computer vision technique that involves analyzing facial expressions to identify and classify the emotional state of an individual. It aims to automatically recognize and understand emotions such as happiness, sadness, anger, surprise, fear, and disgust from facial images or video frames.
 
 Facial emotion detection typically follows the following steps:
